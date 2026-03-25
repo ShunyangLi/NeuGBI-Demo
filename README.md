@@ -1,6 +1,6 @@
 # Source code and docs of "ClawGraph: Bridging Massive Graph Data Lakes for Autonomous Agent Reasoning"
 
-The demo scenario report is available here: ![report](report_en.pdf)
+The demo scenario report is available here: [report](report_en.pdf)
 
 ## NeuGBI Service Startup Guide
 
