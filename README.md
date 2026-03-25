@@ -1,5 +1,7 @@
 # Source code and docs of "ClawGraph: Bridging Massive Graph Data Lakes for Autonomous Agent Reasoning"
 
+The demo scenario report is available here: ![report](./report_en.pdf)
+
 ## NeuGBI Service Startup Guide
 
 This document explains how to start the NeuGBI-related services (`graphcube-server` and `openclaw gateway`) within a Docker container.
