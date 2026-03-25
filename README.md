@@ -2,6 +2,8 @@
 
 The demo scenario report is available here: [report](report_en.pdf)
 
+The used dataset can be found here: [dataset](http://neug.oss-cn-beijing.aliyuncs.com/databases%2Fneug_db_openaire.zip)
+
 ## NeuGBI Service Startup Guide
 
 This document explains how to start the NeuGBI-related services (`graphcube-server` and `openclaw gateway`) within a Docker container.
